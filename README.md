@@ -1,5 +1,8 @@
 # PGSBench
 Benchmarking of Psychiatric PGS (traditional approach as well as more novel approach: GSEM) across diverse ancestry groups in twocohorts
+## To do for now: 
+1. I already have scripts from previous analyses as well as plots, results, etc. Put all of them into an Archive file, mark date, maybe write a short summary of the general approach, and then start project all over, revising previous scripts, but updating with more clear organization/workflow, and using new factor scores, etc. 
+2. Use the previous PGSs (clumped using 1kg is probably fine), but spend some time to look over the GWASs, and prepare summary tables for all GWASs, including the GSEM. Need to be very clear about what GWAS each PGS was calculated from 
 
 # Workflow
 ## Step 1: Pre-process data
