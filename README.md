@@ -8,15 +8,20 @@ Goal of the project:
 # Workflow
 ## Step 1: Pre-process data
 ### PNC 
-1. Data: 
-  Predictors: PGSs of psychiatric traits and PGS of latent traits (Externalizing Consortium; Irwin GSEM; my GSEM)
-  Outcomes: Factor score of latent factors; diagnoses of 15 disorders (or symptom score?)
+1. Data
+  
+Predictors: PGSs of psychiatric traits and PGS of latent traits (Externalizing Consortium; Irwin GSEM; my GSEM)
+  
+Outcomes: Factor score of latent factors; diagnoses of 15 disorders (or symptom score?)
 2. Preprocess: 
 
 ### ABCD
 1. Data
-  Predictors: PGSs of psychiatric traits and PGS of latent traits (Externalizing Consortium; Irwin GSEM; my GSEM)
-  Outcomes: Factor score of latent factors; KSADS of disorders with >X% of prevalence (need to figure out what the X is); CBCL syndrome scale?
+
+Predictors: PGSs of psychiatric traits and PGS of latent traits (Externalizing Consortium; Irwin GSEM; my GSEM)
+
+Outcomes: Factor score of latent factors; KSADS of disorders with >X% of prevalence (need to figure out what the X is); CBCL syndrome scale?
+
 2. Preprocess
 ## Step 2
 
